@@ -6,3 +6,5 @@ Para compilar e executar os programas abaixo relacionados, utilizar os seguintes
 ```gcc -pthread programa.c -o programa``` <br>
 Para executar: ```./programa```           <br>
 
+É necessário o deploy do GNU Compiler Collection (GCC) no host que executará os comandos acima. 
+
